@@ -127,7 +127,7 @@ PACKAGES_ADMIN="
 		"
 
 PACKAGES_BUILD="	
-                build-essential \
+		build-essential \
 		cmake \
 		cxxtest \
 		rlwrap \
@@ -138,19 +138,7 @@ PACKAGES_BUILD="
 		cython \
 		python-dev \
 		python-zmq \
-		python-matplotlib \
-		python-nose \
-		python-numpy \
-		python-scipy \
-		python-mock \
 		python-simplejson \
-		python-flask \
-		python-flask-restful \
-                python-pyparsing \
-                python-dateutil \
-                python-six \
-                python-tornado \
-                python-wsgiref \
 		libboost-all-dev \
 		libjson-spirit-dev \
 		libgsl0-dev \
